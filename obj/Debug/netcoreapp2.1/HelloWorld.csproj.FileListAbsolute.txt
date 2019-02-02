@@ -1,0 +1,11 @@
+E:\Curso Full Stack .Net\Ejemplos\Modulo 1-1\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+E:\Curso Full Stack .Net\Ejemplos\Modulo 1-1\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+E:\Curso Full Stack .Net\Ejemplos\Modulo 1-1\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+E:\Curso Full Stack .Net\Ejemplos\Modulo 1-1\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+E:\Curso Full Stack .Net\Ejemplos\Modulo 1-1\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+E:\Curso Full Stack .Net\Ejemplos\Modulo 1-1\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+E:\Curso Full Stack .Net\Ejemplos\Modulo 1-1\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Curso Full Stack .Net\Ejemplos\Modulo 1-1\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+E:\Curso Full Stack .Net\Ejemplos\Modulo 1-1\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+E:\Curso Full Stack .Net\Ejemplos\Modulo 1-1\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+E:\Curso Full Stack .Net\Ejemplos\Modulo 1-1\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
